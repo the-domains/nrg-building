@@ -1,0 +1,28 @@
+name: NRG Building
+favicon: null
+layout_spectrum: 0.8239556420594454
+typography_spectrum: 0.7382409942802042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6122719363775104
+  lightness: 0.23127398593351245
+  saturation: 0.8260408088099211
+  rhythmicContrast: 0.46647979435510933
+purpose: []
