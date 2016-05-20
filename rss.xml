@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NRG Building]]></title>
+        <description><![CDATA[NRG Building]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 05:56:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thinking of building on Kangaroo Island...]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedthinking-of-building-on-kangaroo-island/index.html</link>
+            <guid isPermaLink="false">61b39be4-adfd-4e8f-a2d6-1deff739af1e</guid>
+            <pubDate>Fri, 20 May 2016 05:56:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
